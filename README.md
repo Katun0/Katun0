@@ -17,3 +17,12 @@ I've started my jorney into the great world of computing 'cause I really wanted 
 - 📖 I'm currently studying at UNOESC, on the Computer Science course
 - 💬 Ask me anything [here](https://github.com/Katun0) I am happy to help.
 - 🤔 Fun fact: Equal is Not Always Equal in JS.
+
+
+## Projects and Dev Stuffs:
+
+### ⚡ GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Katun0&show_icons=true&theme=radical)
+
+### 🔥 GitHub Streaks:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?Katun0&theme=radical)
