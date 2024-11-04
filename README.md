@@ -1,7 +1,7 @@
-## Hello There 👋👋
-## My name is João, my nickname is Katun0
+# Hello There 👋👋
+# My name is João, my nickname is Katun0
 
-## I'm a computer science student passionate about technology in general, and you're on my GitHub page !!
+# I'm a computer science student passionate about technology in general, and you're on my GitHub page !!
 
 <!--
 **Katun0/Katun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
