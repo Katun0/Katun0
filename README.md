@@ -4,26 +4,16 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-surdi-103965216" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-Glad to see you here! 
+
+## Glad to see you here! 
+
+I'm a computer science student, passionate about technology in general, addicted (just a little) to coffee ☕
+
+I've started my jorney into the great world of computing 'cause I really wanted to learn how to develop and program games, but as I delved deeper into programming subjects, I became completely in love with everything, today, I learn a little about each area
+
 
 ## Talking about Personal Stuff:
 - 🔧 I'm currently working on SigaSul, 
 - 📖 I'm currently studying at UNOESC, on the Computer Science course
 - 💬 Ask me anything [here](https://github.com/Katun0) I am happy to help.
 - 🤔 Fun fact: Equal is Not Always Equal in JS.
-
-
-<!--
-**Katun0/Katun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
